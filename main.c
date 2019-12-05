@@ -28,12 +28,13 @@ int devolveString(char *linha, char *termo, int tam){
                 {
                     char ch = linha[j];
                     char ch2 = linha[j+1];
-                    if (ch != '<' && ch2 != '/')
+                    char ch3 = linha[j+2];
+                    if (ch != '<' && ch2 != '/' && ch3 != termo[1])
                     {
                         string[t] = linha[j];
                         t++;
                     }
-                    if (ch == '<' && ch2 == '/')
+                    if (ch == '<' && ch2 == '/' && ch3 == termo[1])
                     {
                         string[t] = '\0';
                         t = 0;
@@ -57,9 +58,8 @@ int main(int argc, char const *argv[])
     char title[] = "<title>";
     char description[] = "<description>";
     char link[] = "<link>";
-    char titulo[100];
 
-    fp = fopen("news.xml", "r");
+    fp = fopen("taguatinga.xml", "r");
 
     if (fp != NULL)
     {
@@ -80,6 +80,12 @@ int main(int argc, char const *argv[])
             if(devolveString(linha, link, strlen(linha))){
                 break;
             }
+        }
+        while (fgets(linha, sizeof(linha), fp))
+        {
+            int a = devolveString(linha, title, strlen(linha));
+            int b = devolveString(linha, description, strlen(linha));
+            int c = devolveString(linha, link, strlen(linha));
         }
     }
     
