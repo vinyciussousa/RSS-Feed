@@ -1,12 +1,61 @@
 #include <stdio.h>
 #include <string.h>
 
+void devolveString(char *linha, char *termo, int tam){
+    int i = 0;
+    int k = 0;
+    char string[100];
+    if (linha[0] == '\t')
+    {
+        while(linha[k] == '\t')
+            k++;
+        for (i = 0; i < strlen(linha); ++i)
+        {
+            linha[i] = linha[i+k];
+        }
+    }
+    i=0;
+    k=0;
+    for (i = 0; i < 100; i++)
+    {
+        if (linha[i] == termo[k])
+        {
+            k++;
+            if (k == strlen(termo))
+            {
+                int t = 0;
+                for (int j = k; j < strlen(linha); j++)
+                {
+                    char ch = linha[j];
+                    char ch2 = linha[j+1];
+                    if (ch != '<' && ch2 != '/')
+                    {
+                        string[t] = linha[j];
+                        t++;
+                    }
+                    if (ch == '<' && ch2 == '/')
+                    {
+                        string[t] = '\0';
+                        t = 0;
+                        break;
+                    }
+                }
+                printf("%s\n", string);
+            } 
+        } else
+        {
+            k = 0;
+        }
+    }
+}
+
 int main(int argc, char const *argv[])
 {
     FILE *fp;
     char linha[100];
     char title[] = "<title>";
-    char fechar[] = "</";
+    char description[] = "<description>";
+    char link[] = "<link>";
     char titulo[100];
 
     fp = fopen("taguatinga.xml", "r");
@@ -15,39 +64,7 @@ int main(int argc, char const *argv[])
     {
         while (fgets(linha, sizeof(linha), fp))
         {
-            int i = 0;
-            int k = 0;
-            for (i = 0; i < 100; i++)
-            {
-                if (linha[i] == title[k])
-                {
-                    k++;
-                    if (k == strlen(title))
-                    {
-                        int t = 0;
-                        for (int j = k+1; j < strlen(linha); j++)
-                        {
-                            char ch = linha[j];
-                            char ch2 = linha[j+1];
-                            if (ch != '<' && ch2 != '/')
-                            {
-                                titulo[t] = linha[j];
-                                t++;
-                            }
-                            if (ch == '<' && ch2 == '/')
-                            {
-                                titulo[t] = '\0';
-                                t = 0;
-                                break;
-                            }
-                        }
-                        printf("%s\n", titulo);
-                    } 
-                } else
-                {
-                    k = 0;
-                }
-            }   
+            devolveString(linha, title, strlen(linha));
         }
     }
     
