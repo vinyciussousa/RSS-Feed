@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-void devolveString(char *linha, char *termo, int tam){
+int devolveString(char *linha, char *termo, int tam){
     int i = 0;
     int k = 0;
     char string[100];
@@ -37,16 +37,17 @@ void devolveString(char *linha, char *termo, int tam){
                     {
                         string[t] = '\0';
                         t = 0;
-                        break;
+                        printf("%s\n", string);
+                        return 1;
                     }
                 }
-                printf("%s\n", string);
             } 
         } else
         {
             k = 0;
         }
     }
+    return 0;
 }
 
 int main(int argc, char const *argv[])
@@ -58,13 +59,27 @@ int main(int argc, char const *argv[])
     char link[] = "<link>";
     char titulo[100];
 
-    fp = fopen("taguatinga.xml", "r");
+    fp = fopen("news.xml", "r");
 
     if (fp != NULL)
     {
         while (fgets(linha, sizeof(linha), fp))
         {
-            devolveString(linha, title, strlen(linha));
+            if(devolveString(linha, title, strlen(linha))){
+                break;
+            }
+        }
+        while (fgets(linha, sizeof(linha), fp))
+        {
+            if(devolveString(linha, description, strlen(linha))){
+                break;
+            }
+        }
+        while (fgets(linha, sizeof(linha), fp))
+        {
+            if(devolveString(linha, link, strlen(linha))){
+                break;
+            }
         }
     }
     
