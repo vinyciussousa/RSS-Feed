@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC Brasil - Notícias, vídeos, análise e contexto em português]]></title>
+        <description><![CDATA[BBC Brasil - Notícias, vídeos, análise e contexto em português]]></description>
+        <link>http://www.bbcbrasil.com</link>
+        <image>
+            <url>http://www.bbc.co.uk/portuguese/images/gel/rss_logo.gif</url>
+            <title>BBC Brasil - Notícias, vídeos, análise e contexto em português</title>
+            <link>http://www.bbcbrasil.com</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 05 Dec 2019 19:44:05 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright British Broadcasting Corporation ]]></copyright>
+        <language><![CDATA[pt-BR]]></language>
+        <managingEditor><![CDATA[portuguese@bbc.co.uk]]></managingEditor>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Para moradores de Paraisópolis, vida média é 10 anos mais curta que no vizinho Morumbi]]></title>
+            <description><![CDATA[No sábado, nove jovens morreram durante ação da Polícia Militar em baile funk na favela; vítimas moravam em outras regiões periféricas da cidade.]]></description>
+            <link>http://www.bbc.com/portuguese/brasil-50666702</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/brasil-50666702</guid>
+            <pubDate>Thu, 05 Dec 2019 19:20:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apesar de decisão do STF, Planalto mantém sob sigilo gastos com cartão corporativo]]></title>
+            <description><![CDATA[No começo de novembro, STF derrubou trecho de decreto da ditadura militar que garantia sigilo, mas portal do governo segue sem informar dados.]]></description>
+            <link>http://www.bbc.com/portuguese/brasil-50666770</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/brasil-50666770</guid>
+            <pubDate>Thu, 05 Dec 2019 10:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Impeachment de Trump avança nos EUA: entenda o caso em poucas palavras (ou em detalhes)]]></title>
+            <description><![CDATA[O presidente dos EUA está envolvido em polêmica por causa de um telefonema com o presidente da Ucrânia. Aqui está o porquê.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50678201</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50678201</guid>
+            <pubDate>Thu, 05 Dec 2019 18:03:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paraisópolis: adolescente de 16 anos que estudava de manhã e limpava estofados à tarde atravessou cidade para ir a baile onde morreu]]></title>
+            <description><![CDATA[No último fim de semana, ele saiu de Brasilândia - periferia da zona norte de São Paulo - e foi até Paraisópolis, na zona sul, onde morreu após operação da PM no baile da 17.]]></description>
+            <link>http://www.bbc.com/portuguese/brasil-50652527</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/brasil-50652527</guid>
+            <pubDate>Thu, 05 Dec 2019 10:44:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[O que sobrou do pacote anticrime de Moro após aprovação na Câmara]]></title>
+            <description><![CDATA[Ao todo, 11 pontos foram retirados da proposta original do ministro, que contou até com uma campanha de marketing milionária do governo Bolsonaro.]]></description>
+            <link>http://www.bbc.com/portuguese/brasil-50673251</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/brasil-50673251</guid>
+            <pubDate>Thu, 05 Dec 2019 12:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Childfree': as pessoas que pedem (ou até compram) distância de crianças]]></title>
+            <description><![CDATA[Onda 'childfree' difundida em redes sociais e veto à presença de crianças em estabelecimentos como restaurantes levanta debates acalorados sobre direitos individuais e convivência coletiva.]]></description>
+            <link>http://www.bbc.com/portuguese/salasocial-50533908</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/salasocial-50533908</guid>
+            <pubDate>Wed, 04 Dec 2019 18:13:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Operação Maleta Verde’, o escândalo que atinge governo e oposição na Venezuela]]></title>
+            <description><![CDATA[O portal investigativo Armando.info publicou que deputados tinham concordado em fazer manobras a favor de vários empresários da órbita do chavismo investigados em diferentes instâncias internacionais por sua participação em um esquema de corrupção.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50642755</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50642755</guid>
+            <pubDate>Wed, 04 Dec 2019 09:48:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TSE libera coleta de assinaturas digitais, mas pode não viabilizar novo partido de Bolsonaro]]></title>
+            <description><![CDATA[Corte entendeu que a assinatura pode ser feita por meio de assinaturas digitais, mas só depois que a Justiça Eleitoral determinar por qual meio. Decisão pode ou não viabilizar partido de Bolsonaro]]></description>
+            <link>http://www.bbc.com/portuguese/brasil-50653804</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/brasil-50653804</guid>
+            <pubDate>Wed, 04 Dec 2019 00:34:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['O estuprador é você': a coreografia feminista chilena que está ganhando o mundo]]></title>
+            <description><![CDATA[Com gestos e música de protesto, grupos em várias partes do mundo estão pedindo o fim da violência contra a mulher: 'A culpa não era minha, nem onde estava, nem como me vestia'.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50649610</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50649610</guid>
+            <pubDate>Tue, 03 Dec 2019 20:43:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crianças brincam em espuma tóxica em praia na Índia]]></title>
+            <description><![CDATA[Imprensa local aponta que origem do material seria esgoto despejado no mar.]]></description>
+            <link>http://www.bbc.com/portuguese/geral-50638076</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/geral-50638076</guid>
+            <pubDate>Mon, 02 Dec 2019 21:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Juiz derruba 'Quadrilhão do PT': entenda todos os processos e acusações contra ex-presidente Lula]]></title>
+            <description><![CDATA[BBC News Brasil explica a seguir uma denúncia, os seis processos em que Lula é réu, as duas condenações, os dois casos em que ele foi absolvido após ser acusado de crime de obstrução de Justiça e organização criminosa, a denúncia rejeitada por falta de provas e o inquérito sobre Belo Monte.]]></description>
+            <link>http://www.bbc.com/portuguese/brasil-49647499</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/brasil-49647499</guid>
+            <pubDate>Wed, 27 Nov 2019 21:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Quem a polícia defende? De que lado está?', questiona autor de foto símbolo da desigualdade no Brasil]]></title>
+            <description><![CDATA[Em entrevista à BBC News Brasil, o fotógrafo Tuca Vieira conta como registrou uma imagem que viraria símbolo da desigualdade entre pobres e ricos no Brasil.]]></description>
+            <link>http://www.bbc.com/portuguese/brasil-50666148</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/brasil-50666148</guid>
+            <pubDate>Thu, 05 Dec 2019 11:52:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manter cultivo de maconha medicinal proibido multiplicará ações na Justiça, diz presidente da Anvisa]]></title>
+            <description><![CDATA[A Agência Nacional de Vigilância Sanitária aprovou a regulamentação do uso medicinal de produtos feitos à base de maconha, que poderão ser produzidos no país e vendidos em farmácias. Mas a Anvisa rejeitou a proposta de regulamentar o plantio de Cannabis para fins terapêuticos e científicos.]]></description>
+            <link>http://www.bbc.com/portuguese/brasil-50611878</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/brasil-50611878</guid>
+            <pubDate>Tue, 03 Dec 2019 21:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[O que é o 'Baile da 17', pancadão em Paraisópolis onde 9 jovens morreram pisoteados]]></title>
+            <description><![CDATA[As mortes ocorreram durante uma operação da Polícia Militar em um baile na segunda maior favela de São Paulo; PM diz que vai investigar a ação dos agentes.]]></description>
+            <link>http://www.bbc.com/portuguese/brasil-50624480</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/brasil-50624480</guid>
+            <pubDate>Sun, 01 Dec 2019 20:22:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Navio alemão da 1ª Guerra é encontrado no mar das Malvinas 105 anos após ser afundado]]></title>
+            <description><![CDATA[Cruzador SMS Scharnhorst foi afundado pelo Reino Unido em uma batalha em 1914. Operação de buscas levou cinco anos e obteve imagens com detalhes surpreendentes.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50666583</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50666583</guid>
+            <pubDate>Thu, 05 Dec 2019 18:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mensagem misteriosa pintada em urso polar na Rússia alarma pesquisadores]]></title>
+            <description><![CDATA[Símbolo 'T-34' é o de um icônico tanque da era soviética; teme-se que pichação dificulte a habilidade do urso de se camuflar e, consequentemente, de caçar alimentos.]]></description>
+            <link>http://www.bbc.com/portuguese/geral-50652745</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/geral-50652745</guid>
+            <pubDate>Wed, 04 Dec 2019 10:30:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Baleia é encontrada morta com 100 kg de lixo no estômago]]></title>
+            <description><![CDATA[Redes de pesca, cordas e copos de plástico estavam entre os resíduos achados no estômago do animal que encalhou em ilha da Escócia.]]></description>
+            <link>http://www.bbc.com/portuguese/geral-50627641</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/geral-50627641</guid>
+            <pubDate>Tue, 03 Dec 2019 15:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Por que pesquisadores recomendam começar a acompanhar o colesterol aos 25 anos]]></title>
+            <description><![CDATA[Médicos podem usar dados para prever risco de problemas cardíacos e acidentes vasculares cerebrais (AVC).]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50658263</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50658263</guid>
+            <pubDate>Wed, 04 Dec 2019 20:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Por que os superricos querem 'passaporte dourado' de Malta]]></title>
+            <description><![CDATA[Venda de passaportes se tornou mercado global para quem quer pagar menos impostos, ter acesso a uma educação de elite ou residir em um novo país por razões políticas.]]></description>
+            <link>http://www.bbc.com/portuguese/geral-50672163</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/geral-50672163</guid>
+            <pubDate>Thu, 05 Dec 2019 14:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como se proteger dos riscos de segurança das Smart TVs, segundo o FBI]]></title>
+            <description><![CDATA[Os televisores inteligentes, conectados à internet, também podem ser alvos de ataques cibernéticos.]]></description>
+            <link>http://www.bbc.com/portuguese/geral-50658557</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/geral-50658557</guid>
+            <pubDate>Wed, 04 Dec 2019 11:37:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Fui xingada nas redes sociais por resgatar um pombo ferido']]></title>
+            <description><![CDATA[Criadores e ativistas dizem que preconceito que associa estas aves a doenças gera 'guerra' contra elas no Brasil, mas especialistas afirmam que pombos não representam um perigo à saúde maior do que outros animais domésticos, como gatos e cachorros.]]></description>
+            <link>http://www.bbc.com/portuguese/brasil-50611874</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/brasil-50611874</guid>
+            <pubDate>Tue, 03 Dec 2019 09:52:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A onda de estupros coletivos que provoca indignação e protestos na Índia]]></title>
+            <description><![CDATA[O estupro e o assassinato de uma jovem médica veterinária na cidade de Hyderabad provocaram raiva e chamaram atenção para a falta de segurança para as mulheres em mais uma cidade indiana.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50656946</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50656946</guid>
+            <pubDate>Wed, 04 Dec 2019 12:35:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Restaurantes franceses entram na luta contra aquecimento global]]></title>
+            <description><![CDATA[Aprenda inglês com reportagem sobre esquema de coleta de composto criado nos arredores de Paris.]]></description>
+            <link>http://www.bbc.com/portuguese/aprenda-ingles-50522842</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/aprenda-ingles-50522842</guid>
+            <pubDate>Fri, 22 Nov 2019 15:54:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Chile hoje é um país zumbi’: a visão de colunista do país em crise]]></title>
+            <description><![CDATA[Para John Müller, jornalista chileno radicado em Madri, o que está acontecendo em seu país é um 'suicídio' que põe em perigo uma reputação internacional e estruturas construídas por anos.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50638151</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50638151</guid>
+            <pubDate>Tue, 03 Dec 2019 08:55:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As raras múmias de bichos em exposição no Egito]]></title>
+            <description><![CDATA[Pela primeira vez, o país exibe uma grande coleção de animais mumificados - como crocodilos, cobras, pássaros e gatos.]]></description>
+            <link>http://www.bbc.com/portuguese/geral-50570613</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/geral-50570613</guid>
+            <pubDate>Wed, 27 Nov 2019 15:44:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Linhas de Nazca no Peru: os intrigantes novos geoglifos descobertos com tecnologia de última geração]]></title>
+            <description><![CDATA[São mais de 140 formas que vão desde as já conhecidas, como macacos e cobras, até uma que surpreendeu os cientistas, como a de figura humanoide com um bastão, cujo significado começará a ser estudado.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50473002</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50473002</guid>
+            <pubDate>Wed, 20 Nov 2019 11:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A espetacular imagem da Via Láctea refletida em deserto de sal que ganhou homenagem da Nasa]]></title>
+            <description><![CDATA[O fotógrafo peruano Jheison Huerta levou três anos para fazer essa imagem da nossa galáxia, vista do salar de Uyuni, a Bolivia]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50274440</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50274440</guid>
+            <pubDate>Sat, 02 Nov 2019 18:46:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Banksy: imagens inéditas mostram artista secreto trabalhando]]></title>
+            <description><![CDATA[Um livro do ex-agente de Banksy tem fotos que seriam do artista, mas nenhuma mostra seu rosto.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50250119</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50250119</guid>
+            <pubDate>Thu, 31 Oct 2019 15:37:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['O Chile acordou': autora da foto viral que marcou protestos conta o que sentiu ao capturar imagem]]></title>
+            <description><![CDATA[Susana Hidalgo, atriz chilena de 33 anos, relembra o momento em que fez com seu celular uma das imagens mais emblemáticas das manifestações no país.]]></description>
+            <link>http://www.bbc.com/portuguese/brasil-50229216</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/brasil-50229216</guid>
+            <pubDate>Tue, 29 Oct 2019 20:43:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fotografias leiloadas em Nova York revelam como era a Amazônia brasileira no século 19]]></title>
+            <description><![CDATA[As fotos foram publicadas em 1869. Acredita-se que componham o registro mais antigo fotográfico mais antigo da região.]]></description>
+            <link>http://www.bbc.com/portuguese/geral-49946831</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/geral-49946831</guid>
+            <pubDate>Sat, 05 Oct 2019 14:20:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A história por trás da foto mais emblemática dos protestos no Equador]]></title>
+            <description><![CDATA[No último domingo, um acordo foi fechado entre o governo e líderes indígenas após 12 dias de protestos, dos quais uma imagem de uma mulher em meio a uma nuvem de gás lacrimogêneu tornou-se um dos seus principais símbolos.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50047879</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50047879</guid>
+            <pubDate>Mon, 14 Oct 2019 17:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Por que a 'criadora do chá de revelação' se arrepende de ter ajudado a lançar essa moda]]></title>
+            <description><![CDATA[A americana Jenna Karvunidis queria animar a família sobre sua primeira gravidez quando teve a ideia de fazer um chá para revelar o sexo do bebê para amigos e parentes. Hoje, esse tipo de festa tornou-se popular em vários países e seguiu por caminhos que sua 'inventora' desaprova.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50663535</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50663535</guid>
+            <pubDate>Thu, 05 Dec 2019 16:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Os americanos que se preparam para um 'apocalipse' causado pela polarização política]]></title>
+            <description><![CDATA[Milhões de pessoas nos Estados Unidos abastecem suas despensas, se armam e fazem treinamentos para estarem prontos para episódios de caos social e outros tipos de catástrofe - um movimento que cresceu após a chegada de Donald Trump à Presidência.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50593015</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50593015</guid>
+            <pubDate>Thu, 05 Dec 2019 10:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como manter uma alimentação balanceada sem carne, com preços em alta no Brasil]]></title>
+            <description><![CDATA[Combinadas, proteínas de origem vegetal podem nos fornecer a quantidade ideal de nutrientes para o corpo funcionar bem.]]></description>
+            <link>http://www.bbc.com/portuguese/geral-50636010</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/geral-50636010</guid>
+            <pubDate>Thu, 05 Dec 2019 16:27:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A descoberta do novo planeta que pode dar pistas sobre a morte do Sol]]></title>
+            <description><![CDATA[Um planeta recém-descoberto mostra o que ocorreria com nosso astro daqui a 5 ou 6 bilhões de anos.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50672103</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50672103</guid>
+            <pubDate>Thu, 05 Dec 2019 14:34:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Você passaria na prova de matemática do Pisa? Teste seus conhecimentos com 6 questões]]></title>
+            <description><![CDATA[Foi nessa competência que alunos brasileiros tiveram o pior desempenho, segundo resultados recém-divulgados; objetivo da prova é avaliar o uso da matemática no dia a dia, em situações práticas.]]></description>
+            <link>http://www.bbc.com/portuguese/curiosidades-50652751</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/curiosidades-50652751</guid>
+            <pubDate>Wed, 04 Dec 2019 20:38:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Um balão de festa pode me matar': as dificuldades de quem tem alergia ao látex]]></title>
+            <description><![CDATA[A intolerância de Liz Knight é tão grave que ela não consegue tocar em um jornal ou nos botões do controle remoto da televisão.]]></description>
+            <link>http://www.bbc.com/portuguese/geral-50666142</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/geral-50666142</guid>
+            <pubDate>Thu, 05 Dec 2019 15:26:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Como é o mega-gasoduto resultado do 'acordo do século' entre a Rússia e a China]]></title>
+            <description><![CDATA[Moscou e Pequim inauguraram gasoduto para o abastecimento do norte da China em valores que podem chegar a US$ 400 bi.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50658563</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50658563</guid>
+            <pubDate>Thu, 05 Dec 2019 11:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Por que um dos lugares habitados mais antigos do mundo ficará debaixo d'água em alguns meses]]></title>
+            <description><![CDATA[Povoado tem patrimônio arquitetônico e cultural de mais de 12 mil anos, mas seu destino contempla somente mais alguns meses de vida: ele está no meio de um projeto de represas na Turquia.]]></description>
+            <link>http://www.bbc.com/portuguese/geral-50666763</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/geral-50666763</guid>
+            <pubDate>Thu, 05 Dec 2019 09:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[O que revelam as fotos de Kim Jong-un cavalgando em monte sagrado na Coreia do Norte]]></title>
+            <description><![CDATA[As viagens do líder norte-coreano até o Monte Paektu são conhecidas por precederem os principais anúncios.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50656949</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50656949</guid>
+            <pubDate>Wed, 04 Dec 2019 19:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A luta para proibir 'testes de virgindade' nos EUA após rapper dizer que os exige da filha de 18 anos]]></title>
+            <description><![CDATA[Os legisladores do estado de Nova York estão tentando proibir "testes de virgindade" depois do rapper T.I. dizer que acompanha sua filha Deyjah Harris, uma mulher de 18 anos, ao ginecologista para "verificar seu hímen".]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50663678</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50663678</guid>
+            <pubDate>Wed, 04 Dec 2019 17:23:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BolaWrap, o aparelho que policiais de Los Angeles usarão para ‘laçar’ suspeitos]]></title>
+            <description><![CDATA[A polícia diz que a ferramenta, que lança uma corda contra o alvo para imobilizá-lo, pode ser um recurso valioso para deter pessoas sem uso da força.]]></description>
+            <link>http://www.bbc.com/portuguese/internacional-50611880</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/internacional-50611880</guid>
+            <pubDate>Wed, 04 Dec 2019 15:40:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parceiros comerciais da BBC Brasil]]></title>
+            <description><![CDATA[Conheça as empresas que têm parcerias com a BBC Brasil e que nos ajudam a levar a um público mais amplo o nosso conteúdo.]]></description>
+            <link>http://www.bbc.com/portuguese/institutional-41672312</link>
+            <guid isPermaLink="true">http://www.bbc.com/portuguese/institutional-41672312</guid>
+            <pubDate>Wed, 18 Oct 2017 16:13:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

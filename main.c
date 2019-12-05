@@ -4,12 +4,12 @@
 int main(int argc, char const *argv[])
 {
     FILE *fp;
-    char linha[1000];
+    char linha[100];
     char title[] = "<title>";
     char fechar[] = "</";
-    char titulo[1000];
+    char titulo[100];
 
-    fp = fopen("news.xml", "r");
+    fp = fopen("taguatinga.xml", "r");
 
     if (fp != NULL)
     {
@@ -25,20 +25,21 @@ int main(int argc, char const *argv[])
                     if (k == strlen(title))
                     {
                         int t = 0;
-                        for (int j = k; j < strlen(linha); j++)
+                        for (int j = k+1; j < strlen(linha); j++)
                         {
                             char ch = linha[j];
                             char ch2 = linha[j+1];
                             if (ch != '<' && ch2 != '/')
                             {
                                 titulo[t] = linha[j];
+                                t++;
                             }
                             if (ch == '<' && ch2 == '/')
                             {
                                 titulo[t] = '\0';
+                                t = 0;
                                 break;
                             }
-                            t++;
                         }
                         printf("%s\n", titulo);
                     } 
