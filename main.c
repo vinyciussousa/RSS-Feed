@@ -4,7 +4,7 @@
 int devolveString(char *linha, char *termo, int tam){
     int i = 0;
     int k = 0;
-    char string[100];
+    char string[1000];
     if (linha[0] == '\t')
     {
         while(linha[k] == '\t')
@@ -16,7 +16,7 @@ int devolveString(char *linha, char *termo, int tam){
     }
     i=0;
     k=0;
-    for (i = 0; i < 100; i++)
+    for (i = 0; i < 1000; i++)
     {
         if (linha[i] == termo[k])
         {
@@ -54,7 +54,8 @@ int devolveString(char *linha, char *termo, int tam){
 int main(int argc, char const *argv[])
 {
     FILE *fp;
-    char linha[100];
+    char header[1000];
+    char linha[1000];
     char title[] = "<title>";
     char description[] = "<description>";
     char link[] = "<link>";
@@ -63,29 +64,27 @@ int main(int argc, char const *argv[])
 
     if (fp != NULL)
     {
-        while (fgets(linha, sizeof(linha), fp))
+        while (fgets(header, sizeof(header), fp))
         {
-            if(devolveString(linha, title, strlen(linha))){
+            if(devolveString(header, title, strlen(header))){
+                break;
+            }
+        }
+        while (fgets(header, sizeof(header), fp))
+        {
+            if(devolveString(header, description, strlen(header))){
+                break;
+            }
+        }
+        while (fgets(header, sizeof(header), fp))
+        {
+            if(devolveString(header, link, strlen(header))){
                 break;
             }
         }
         while (fgets(linha, sizeof(linha), fp))
         {
-            if(devolveString(linha, description, strlen(linha))){
-                break;
-            }
-        }
-        while (fgets(linha, sizeof(linha), fp))
-        {
-            if(devolveString(linha, link, strlen(linha))){
-                break;
-            }
-        }
-        while (fgets(linha, sizeof(linha), fp))
-        {
-            int a = devolveString(linha, title, strlen(linha));
-            int b = devolveString(linha, description, strlen(linha));
-            int c = devolveString(linha, link, strlen(linha));
+            devolveString(linha, description,strlen(linha));
         }
     }
     
