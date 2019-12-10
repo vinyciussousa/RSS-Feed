@@ -1,7 +1,7 @@
 # RSS-Feed
 Feed de notícias - RSS criado para o trabalho final da matéria Programação de Computadores I
 
-Nomes: Mateus de souza pequeno furtado de Mendonça, Breno Miguez, Marcos Souza
+Nomes: Mateus de Souza Pequeno Furtado de Mendonça, Breno Miguez, Marcos Souza
 
 Para compilar basta ter, o executavél principal main.c, e o arquivo xml baixado no seu pc, no caso, 
 taguatinga.xml.
