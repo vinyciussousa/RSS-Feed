@@ -3,7 +3,7 @@ Feed de notícias - RSS criado para o trabalho final da matéria Programação d
 
 Nomes: Mateus de souza pequeno furtado de Mendonça, Breno Miguez, Marcos Souza
 
-Para compilar basta ter, o executavél principal trab2main.c, e o arquivo xml baixado no seu pc, no caso, 
+Para compilar basta ter, o executavél principal main.c, e o arquivo xml baixado no seu pc, no caso, 
 taguatinga.xml.
 
 Escolhemos o RSS do IFB, Taguatinga, https://www.ifb.edu.br/taguatinga?start=10;&format=feed&type=rss
