@@ -32,11 +32,7 @@ int devolveString(char *linha, char *termo, FILE *fp2, int *e_header)
                     char ch = linha[j];
                     char ch2 = linha[j + 1];
                     char ch3 = linha[j + 2];
-                    if (ch != '<' && ch2 != '/' && ch3 != termo[1])
-                    {
-                        string[t] = linha[j];
-                        t++;
-                    }
+                
                     if (ch == '<' && ch2 == '/' && ch3 == termo[1])
                     {
                         string[t] = '\0';
@@ -61,12 +57,17 @@ int devolveString(char *linha, char *termo, FILE *fp2, int *e_header)
                         }
                         if (c == 'p')
                         {
-                            fprintf(fp2, "\n<p>%s</p>\n\n", string);
+                            fprintf(fp2, "\n<p>%s</p>\n\n<hr>\n", string);
                         }
 
                         printf("%s\n", string);
 
                         return 1;
+                    }
+                    else
+                    {
+                        string[t] = linha[j];
+                        t++;
                     }
                 }
             }
@@ -110,21 +111,25 @@ int devolveStringDesc(char *linha, char *termo, FILE *fp2)
                     char ch = linha[j];
                     char ch2 = linha[j + 1];
                     char ch3 = linha[j + 2];
-                    if (ch != '<' && ch2 != '/' && ch3 != termo[1])
+                        
+                    if (ch == '<' && ch2 == '/' && ch3 == 'd')
+                    {
+                        string[t] = '\0';
+                        t = 0;
+                        printf("%s\n", string);
+                        fprintf(fp2, "<p>%s</p>\n", string);
+                        return 1;
+                    }
+                    else
                     {
                         string[t] = linha[j];
                         t++;
                     }
-                    if (ch == '<' && ch2 == '/' && ch3 == termo[1])
-                    {
-                        string[t] = '\0';
-                        t = 0;
-                        return 1;
-                    }
+                    
                 }
 
                 printf("%s\n", string);
-                fprintf(fp2, "<p>%s</p>", string);
+                fprintf(fp2, "<p>%s</p>\n", string);
             }
         }
         else
